@@ -26,7 +26,7 @@ Follow the instructions below to setup the Liquid Glass themes on your system.
 * [File Explorer](/File%20Explorer/README.md) - Instructions for setting up the Windows Glass File Explorer theme.
 
 
-Check the [Excluding Unwatned Processes](https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/wiki/Excluding-Unwanted-Processes) page on the [wiki](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki) to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
+Check the [Excluding Unwanted Processes](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki/Excluding-Unwanted-Processes) page on the [wiki](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki) to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
 
 ---
 
