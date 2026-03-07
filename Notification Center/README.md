@@ -18,9 +18,7 @@ Follow the instructions listed below to install and setup the Windows Glass Noti
 
 ### Notification Center
 
-<div align="center">
-<img src="Notification-Center-Preview.png" width="45%" height="auto" /> <img src="Action-Center-Preview.png" width="45%" height="auto" />
-</div>
+<img src="Preview.png" width="100%" height="auto" />
 
 * Open the `Windows 11 Notification Center Styler` mod in Windhawk.
 * Go to the `Advanced` tab and copy the code below into the `Mod settings` box and click `save`.

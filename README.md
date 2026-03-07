@@ -6,11 +6,6 @@
 <img src="Preview-1.png" width="45%" height="auto" /> <img src="Preview-2.png" width="45%" height="auto" />
 </div>
 
-</div>
-
-> [!IMPORTANT]
-> This theme supports 16:9 or 16:10 screen reolutions with a DPI of 100% *(Tested on 1920x1080 and 1920x1200)*. Using it on anything else may result in overlapping elements. High DPI and Miminal variations are included to extend support further.
-
 <div align="center">
 
 #### If you'd like to help, feel free to open a PR with your improvements and/or fixes!<br />You can see a list of currently planned changes in our [TO-DO](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki/To%E2%80%90Do) page.
