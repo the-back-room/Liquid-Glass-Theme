@@ -19,6 +19,9 @@ Follow the instructions listed below to install and setup the Windows Glass Star
 <img src="Preview-1.png" width="450%" height="auto" /> <img src="Preview-2.png" width="450%" height="auto" />
 </div>
 
+> [!NOTE]
+> This theme supports both the new and old start menu layouts and features a clean glass UI with the Phone Link widget disabled to improve appearance and privacy.
+
 * Download and install the fonts listed in the requirements above.
 * Open the `Windows 11 Start Menu Styler` mod in Windhawk.
 * Go to the `Advanced` tab and add `LockApp.exe` to the `Custom process inclusion list`. Then copy the code below into the `Mod settings` box and click `save`.
