@@ -1,7 +1,4 @@
-# Taskbar
-
-> [!IMPORTANT]
-> The theme styles must be imported manually for now due to the official version needing a large amount of fixes. To do that, follow these steps.
+# Liquid Glass
 
 ## Installation
 Follow the instructions listed below to install and setup the Windows Glass Taskbar theme on your system.
@@ -18,12 +15,27 @@ Follow the instructions listed below to install and setup the Windows Glass Task
 
 ---
 
-### Default Taskbar
+
+### LiquidGlass (Centered)
 
 <img src="Default-Preview.png" width="100%" height="auto" />
 
-* Open the `Windows 11 Taskbar Styler` mod in Windhawk.
-* Go to the `Advanced` tab and copy the code below into the `Mod settings` box and click `save`.
+## Theme selection
+
+The theme is integrated into the mod and can simply be selected from the mod's
+settings:
+
+* Open the Windows 11 Taskbar Styler mod in Windhawk.
+* Go to the "Settings" tab.
+* Select the theme and save the settings.
+
+## Manual installation
+
+The theme styles can also be imported manually. To do that, follow these steps:
+
+* Open the Windows 11 Taskbar Styler mod in Windhawk.
+* Go to the "Advanced" tab.
+* Copy the content below to the text box under "Mod settings" and click "Save".
 
 <details>
 <summary>Content to import (click to expand)</summary>
@@ -238,13 +250,27 @@ Follow the instructions listed below to install and setup the Windows Glass Task
 
 ---
 
-### High DPI Taskbar
+### LiquidGlass (Centered High DPI)
 This theme also includes a high dpi variant of the taskbar. *(Tested on 1920x1080 and 1920x1200 resolutions at 125% DPI)*
 
 <img src="High-DPI-Preview.png" width="100%" height="auto" />
 
-* Open the `Windows 11 Taskbar Styler` mod in Windhawk.
-* Go to the `Advanced` tab and copy the code below into the `Mod settings` box and click `save`.
+## Theme selection
+
+The theme is integrated into the mod and can simply be selected from the mod's
+settings:
+
+* Open the Windows 11 Taskbar Styler mod in Windhawk.
+* Go to the "Settings" tab.
+* Select the theme and save the settings.
+
+## Manual installation
+
+The theme styles can also be imported manually. To do that, follow these steps:
+
+* Open the Windows 11 Taskbar Styler mod in Windhawk.
+* Go to the "Advanced" tab.
+* Copy the content below to the text box under "Mod settings" and click "Save".
 
 <details>
 <summary>Content to import (click to expand)</summary>
@@ -459,13 +485,27 @@ This theme also includes a high dpi variant of the taskbar. *(Tested on 1920x108
 
 ---
 
-### Full Width Taskbar
+### Liquid Glass (Full Width)
 This theme also includes a full width variant.
 
 <img src="Full-Width-Preview.png" width="100%" height="auto" />
 
-* Open the `Windows 11 Taskbar Styler` mod in Windhawk.
-* Go to the `Advanced` tab and copy the code below into the `Mod settings` box and click `save`.
+## Theme selection
+
+The theme is integrated into the mod and can simply be selected from the mod's
+settings:
+
+* Open the Windows 11 Taskbar Styler mod in Windhawk.
+* Go to the "Settings" tab.
+* Select the theme and save the settings.
+
+## Manual installation
+
+The theme styles can also be imported manually. To do that, follow these steps:
+
+* Open the Windows 11 Taskbar Styler mod in Windhawk.
+* Go to the "Advanced" tab.
+* Copy the content below to the text box under "Mod settings" and click "Save".
 
 <details>
 <summary>Content to import (click to expand)</summary>
