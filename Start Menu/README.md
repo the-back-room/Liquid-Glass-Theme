@@ -1,7 +1,4 @@
-# Start Menu
-
-## Installation
-Follow the instructions listed below to install and setup the Windows Glass Start Menu theme on your system.
+# Liquid Glass
 
 ### Requirements
 
@@ -22,6 +19,7 @@ Follow the instructions listed below to install and setup the Windows Glass Star
 > [!NOTE]
 > This theme supports both the new and old start menu layouts and features a clean glass UI with the Phone Link widget disabled to improve appearance and privacy.
 
+<!--
 ## Theme selection
 
 The theme is integrated into the mod and can simply be selected from the mod's
@@ -31,6 +29,7 @@ settings:
 * Open the Windows 11 Start Menu Styler mod in Windhawk.
 * Go to the "Settings" tab.
 * Select the theme and save the settings.
+-->
 
 ## Manual installation
 

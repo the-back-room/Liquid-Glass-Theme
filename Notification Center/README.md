@@ -1,12 +1,4 @@
-# Notification Center
-
-> [!IMPORTANT]
-> The theme styles must be imported manually for now due to the official version needing a large amount of fixes. To do that, follow these steps.
-
-## Installation
-Follow the instructions listed below to install and setup the Windows Glass Notification Center theme on your system.
-
----
+# Liquid Glass
 
 ### Requirements
 
@@ -20,8 +12,25 @@ Follow the instructions listed below to install and setup the Windows Glass Noti
 
 <img src="Preview.png" width="100%" height="auto" />
 
-* Open the `Windows 11 Notification Center Styler` mod in Windhawk.
-* Go to the `Advanced` tab and copy the code below into the `Mod settings` box and click `save`.
+<!-- 
+## Theme selection
+
+The theme is integrated into the mod and can simply be selected from the mod's
+settings:
+
+* Open the Windows 11 Notification Center Styler mod in Windhawk.
+* Go to the "Settings" tab.
+* Select the theme and save the settings.
+
+-->
+
+## Manual installation
+
+The theme styles can also be imported manually. To do that, follow these steps:
+
+* Open the Windows 11 Notification Center Styler mod in Windhawk.
+* Go to the "Advanced" tab.
+* Copy the content below to the text box under "Mod settings" and click "Save".
 
 <details>
 <summary>Content to import (click to expand)</summary>

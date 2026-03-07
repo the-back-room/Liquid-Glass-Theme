@@ -1,12 +1,4 @@
-## File Explorer
-
-> [!IMPORTANT]
-> The theme styles must be imported manually for now due to the official version needing a large amount of fixes. To do that, follow these steps.
-
-## Installation
-Follow these instructions to install the Windows Glass File Explorer theme on your system.
-
----
+# Liquid Glass
 
 ### Requirements
 
@@ -16,12 +8,26 @@ Follow these instructions to install the Windows Glass File Explorer theme on yo
 
 ---
 
-### File Explorer
-
 <img src="Preview.png" width="100%" height="auto" />
 
-* Open the `Windows 11 File Explorer Styler` mod in Windhawk.
-* Go to the `Advanced` tab and copy the code below into the `Mod settings` box and click `save`.
+<!--
+## Theme selection
+
+The theme is integrated into the mod and can simply be selected from the mod's
+settings:
+
+* Open the Windows 11 File Explorer mod in Windhawk.
+* Go to the "Settings" tab.
+* Select the theme and save the settings.
+-->
+
+## Manual installation
+
+The theme styles can also be imported manually. To do that, follow these steps:
+
+* Open the Windows 11 File Explorer Styler mod in Windhawk.
+* Go to the "Advanced" tab.
+* Copy the content below to the text box under "Mod settings" and click "Save".
 
 <details>
 <summary>Content to import (click to expand)</summary>
