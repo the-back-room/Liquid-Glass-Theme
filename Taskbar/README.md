@@ -4,9 +4,6 @@
 
 * **Windhawk Mods**:
   * [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
-  * [Taskbar tray system icon tweaks](https://windhawk.net/mods/taskbar-tray-system-icon-tweaks) *(Optional)*
-  * [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization) *(Optional)*
-  * [Taskbar Music Lounge](https://github.com/Hashah2311/windhawk-mods/blob/main/mods/taskbar-music-lounge.wh.cpp) *(Optional)*
 
 ---
 
@@ -44,8 +41,6 @@ The theme styles can also be imported manually. To do that, follow these steps:
   "controlStyles[0].target": "Taskbar.TaskbarFrame#TaskbarFrame",
   "controlStyles[0].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[0].styles[1]": "HorizontalAlignment=Stretch",
-  "controlStyles[0].styles[2]": "CornerRadius=$CornerRadius",
-  "controlStyles[0].styles[3]": "Margin=3",
   "controlStyles[1].target": "Taskbar.TaskbarFrame#TaskbarFrame > Grid#RootGrid",
   "controlStyles[1].styles[0]": "BorderThickness=$BorderThickness",
   "controlStyles[1].styles[1]": "BorderBrush:=$BorderBrush",
@@ -66,11 +61,11 @@ The theme styles can also be imported manually. To do that, follow these steps:
   "controlStyles[6].target": "SystemTray.ChevronIconView",
   "controlStyles[6].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[7].target": "SystemTray.NotifyIconView#NotifyItemIcon",
-  "controlStyles[7].styles[0]": "CornerRadius=$ElementCornerRadius",
+  "controlStyles[7].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[8].target": "SystemTray.OmniButton",
-  "controlStyles[8].styles[0]": "CornerRadius=$ElementCornerRadius",
+  "controlStyles[8].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[9].target": "SystemTray.IconView#SystemTrayIcon > Grid#ContainerGrid > ContentPresenter#ContentPresenter > Grid#ContentGrid > SystemTray.TextIconContent > Grid#ContainerGrid",
-  "controlStyles[9].styles[0]": "CornerRadius=$ElementCornerRadius",
+  "controlStyles[9].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[10].target": "Taskbar.Gripper#GripperControl",
   "controlStyles[10].styles[0]": "Width=Auto",
   "controlStyles[10].styles[1]": "MinWidth=24",
@@ -212,210 +207,16 @@ The theme styles can also be imported manually. To do that, follow these steps:
   "controlStyles[41].styles[0]": "HorizontalAlignment=Left",
   "styleConstants[0]": "BorderThickness=0.3,1,0.3,0.3",
   "styleConstants[1]": "ElementBorderThickness=0.3,0.3,0.3,1",
-  "styleConstants[2]": "Background=<WindhawkBlur BlurAmount=\"15\" TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.2\" />",
-  "styleConstants[3]": "BorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"0.0\" /><GradientStop Color=\"#50404040\" Offset=\"0.25\" /><GradientStop Color=\"#50808080\" Offset=\"1\" /></LinearGradientBrush>",
-  "styleConstants[4]": "GlassBG=<AcrylicBrush TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.3\" FallbackColor=\"{ThemeResource SystemChromeAltHighColor}\" />",
-  "styleConstants[5]": "GlassBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"{ThemeResource SystemChromeHighColor}\" Offset=\"0.0\" /><GradientStop Color=\"{ThemeResource SystemChromeLowColor}\" Offset=\"0.25\" /><GradientStop Color=\"{ThemeResource SystemChromeHighColor}\" Offset=\"1\" /></LinearGradientBrush>",
-  "styleConstants[6]": "ElementBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#202020\" TintOpacity=\"0.2\" />",
-  "styleConstants[7]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>",
+  "styleConstants[2]": "BorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"0.0\" /><GradientStop Color=\"#50404040\" Offset=\"0.25\" /><GradientStop Color=\"#50808080\" Offset=\"1\" /></LinearGradientBrush>",
+  "styleConstants[3]": "Background=<WindhawkBlur BlurAmount=\"15\" TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.2\" />",
+  "styleConstants[4]": "ElementBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#202020\" TintOpacity=\"0.2\" />",
+  "styleConstants[5]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>",
   "resourceVariables[0].variableKey": "",
   "resourceVariables[0].value": "",
-  "styleConstants[8]": "HoverBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"{ThemeResource SystemChromeHighColor}\" TintOpacity=\"0.2\" />",
-  "styleConstants[9]": "PressedBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.2\" />",
-  "styleConstants[10]": "ActiveBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.2\" />",
-  "styleConstants[11]": "CornerRadius=4"
-}
-```
-
-</details>
-
----
-
-# Taskbar Clock Customization (Optional)
-
-* Open the Taskbar Clock Customization mod in Windhawk.
-* Go to the "Settings" tab.
-* Select the theme and save the settings.
-
-<details>
-<summary>Content to import (click to expand)</summary>
-
-```json
-{
-"ShowSeconds": 0,
-"TimeFormat": "hh':'mm tt",
-"DateFormat": "MMM dd",
-"WeekdayFormat": "dddd",
-"WeekdayFormatCustom": "Sun, Mon, Tue, Wed, Thu, Fri, Sat",
-"TopLine": "📅 %date% 🕒 %time%",
-"BottomLine": "%web1%",
-"MiddleLine": "%weekday%",
-"TooltipLine": "%web1_full%%n%%n%%media_status% %media_artist% - %media_title%",
-"TooltipLineMode": "append",
-"Width": 180,
-"Height": 60,
-"MaxWidth": 0,
-"TextSpacing": 0,
-"DataCollection.NetworkMetricsFormat": "mbsDynamic",
-"DataCollection.NetworkMetricsFixedDecimals": -1,
-"DataCollection.PercentageFormat": "spacePaddingAndSymbol",
-"DataCollection.UpdateInterval": 1,
-"DataCollection.NetworkAdapterName": "",
-"DataCollection.GpuAdapterName": "",
-"MediaPlayer.IgnoredPlayers[0]": "",
-"MediaPlayer.MaxLength": 28,
-"MediaPlayer.NoMediaText": "No media",
-"MediaPlayer.RemoveBrackets": 1,
-"WebContentWeatherLocation": "",
-"WebContentWeatherFormat": "%c 🌡️%t 🌬️%w",
-"WebContentWeatherUnits": "autoDetect",
-"WebContentsItems[0].Url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-"WebContentsItems[0].BlockStart": "<item>",
-"WebContentsItems[0].Start": "<title>",
-"WebContentsItems[0].End": "</title>",
-"WebContentsItems[0].ContentMode": "xmlHtml",
-"WebContentsItems[0].SearchReplace[0].Search": "",
-"WebContentsItems[0].SearchReplace[0].Replace": "",
-"WebContentsItems[0].MaxLength": 28,
-"WebContentsUpdateInterval": 10,
-"TimeZones[0]": "",
-"TimeStyle.Hidden": 0,
-"TimeStyle.TextColor": "",
-"TimeStyle.TextAlignment": "Center",
-"TimeStyle.FontSize": 0,
-"TimeStyle.FontFamily": "",
-"TimeStyle.FontWeight": "",
-"TimeStyle.FontStyle": "",
-"TimeStyle.FontStretch": "",
-"TimeStyle.CharacterSpacing": 0,
-"DateStyle.Hidden": 0,
-"DateStyle.TextColor": "",
-"DateStyle.TextAlignment": "Center",
-"DateStyle.FontSize": 0,
-"DateStyle.FontFamily": "",
-"DateStyle.FontWeight": "",
-"DateStyle.FontStyle": "",
-"DateStyle.FontStretch": "",
-"DateStyle.CharacterSpacing": 0,
-"oldTaskbarOnWin11": 0
-}
-```
-
-</details>
-
----
-
-### Taskbar tray system icon tweaks (Optional)
-
-* Open the Taskbar tray system icon tweaks mod in Windhawk.
-* Go to the "Settings" tab.
-* Select the theme and save the settings.
-
-<details>
-<summary>Content to import (click to expand)</summary>
-
-```json
-{
-"hideVolumeIcon": 0,
-"hideNetworkIcon": 0,
-"hideBatteryIcon": 0,
-"hideMicrophoneIcon": 0,
-"hideGeolocationIcon": 1,
-"hideStudioEffectsIcon": 1,
-"hideLanguageBar": 1,
-"hideLanguageSupplementaryIcons": 1,
-"hideBellIcon": "whenInactiveAndNoDnd",
-"showDesktopButtonWidth": 12
-}
-```
-
-</details>
-
----
-
-### Taskbar Music Lounge (Optional)
-Optional feature to add a native music player widget to the taskbar. Replaces the taskbar widgets pane.  
-
-## Centered Taskbar
-
-* Disable Widgets in your system Taskbar settings and set your Taskbar alignment to Center.
-* Open the Taskbar Music Lounge mod in Windhawk.
-* Go to the "Settings" tab.
-* Select the theme and save the settings.
-
-<details>
-<summary>Content to import (click to expand)</summary>
-
-```json
-{
-  "PanelWidth": 300,
-  "PanelHeight": 38,
-  "FontSize": 14,
-  "ButtonScale": 1,
-  "HideFullscreen": 1,
-  "IdleTimeout": 0,
-  "OffsetX": 302,
-  "OffsetY": 0,
-  "AutoTheme": 1,
-  "TextColor": 16777215,
-  "BgOpacity": 0
-}
-```
-
-</details>
-
-## Centered High DPI Taskbar
-
-* Disable Widgets in your system Taskbar settings and set your Taskbar alignment to Center.
-* Open the Taskbar Music Lounge mod in Windhawk.
-* Go to the "Settings" tab.
-* Select the theme and save the settings.
-
-<details>
-<summary>Content to import (click to expand)</summary>
-
-```json
-{
-  "PanelWidth": 300,
-  "PanelHeight": 48,
-  "FontSize": 14,
-  "ButtonScale": 1,
-  "HideFullscreen": 1,
-  "IdleTimeout": 0,
-  "OffsetX": 138,
-  "OffsetY": 0,
-  "AutoTheme": 1,
-  "TextColor": 16777215,
-  "BgOpacity": 0
-}
-```
-
-</details>
-
-
-## Full Width Taskbar
-
-* Disable Widgets in your system Taskbar settings and set your Taskbar alignment to Center.
-* Open the Taskbar Music Lounge mod in Windhawk.
-* Go to the "Settings" tab.
-* Select the theme and save the settings.
-
-<details>
-<summary>Content to import (click to expand)</summary>
-
-```json
-{
-  "PanelWidth": 300,
-  "PanelHeight": 38,
-  "FontSize": 14,
-  "ButtonScale": 1,
-  "HideFullscreen": 1,
-  "IdleTimeout": 0,
-  "OffsetX": 5,
-  "OffsetY": 0,
-  "AutoTheme": 1,
-  "TextColor": 16777215,
-  "BgOpacity": 0
+  "styleConstants[6]": "HoverBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"{ThemeResource SystemChromeHighColor}\" TintOpacity=\"0.2\" />",
+  "styleConstants[7]": "PressedBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.2\" />",
+  "styleConstants[8]": "ActiveBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"{ThemeResource SystemChromeAltHighColor}\" TintOpacity=\"0.2\" />",
+  "styleConstants[9]": "CornerRadius=4"
 }
 ```
 
