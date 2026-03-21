@@ -26,6 +26,6 @@ Check the [Excluding Unwanted Processes](https://gitlab.com/the-back-room/windha
 
 <div align="center">
 
-#### If you have any issues or need help, check the [wiki](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/pages). If your issue isn't listed there, feel free to [open an issue](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/boards).
+#### If you have any issues or need help, check the [wiki](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/pages). If your issue isn't listed there, feel free to [open an issue](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/work_items/views/1008491) with our support template.
 
 </div>
