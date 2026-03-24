@@ -2,14 +2,15 @@
 
 # Liquid Glass Theme
 
-> [!NOTE]
-> This project has been moved to GitLab for ease of management.
-
 <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/Preview-1.png" width="45%" height="auto" /> <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/Preview-2.png" width="45%" height="auto" />
 
 #### If you'd like to help, feel free to open a PR with your improvements and/or fixes!<br />You can see a list of currently planned changes in our [TO-DO](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki/To%E2%80%90Do) page.
 
 </div>
+
+
+> [!NOTE]
+> This project has been moved to GitLab for ease of management.  
 
 ## Instructions
 Follow the instructions below to setup the Liquid Glass themes on your system.
