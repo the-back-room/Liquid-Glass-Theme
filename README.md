@@ -2,15 +2,12 @@
 
 # Liquid Glass Theme
 
-<img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/Preview-1.png" width="45%" height="auto" /> <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/Preview-2.png" width="45%" height="auto" />
+<img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-1.png" width="100%" height="auto" />
+<img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-2.png" width="49%" height="auto" /> <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-3.png" width="49%" height="auto" />
 
-#### If you'd like to help, feel free to open a PR with your improvements and/or fixes!<br />You can see a list of currently planned changes in our [TO-DO](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki/To%E2%80%90Do) page.
+#### If you'd like to help, feel free to open a PR with your improvements and/or fixes!
 
 </div>
-
-
-> [!NOTE]
-> This project has been moved to GitLab for ease of management.  
 
 ## Instructions
 Follow the instructions below to setup the Liquid Glass themes on your system.
@@ -19,6 +16,7 @@ Follow the instructions below to setup the Liquid Glass themes on your system.
 * [Taskbar](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Taskbar/README.md) - Instructions for setting up the Windows Glass Taskbar theme.
 * [Notification Center](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Notification%20Center/README.md) - Instructions for setting up the Windows Glass Notification Center theme.
 * [File Explorer](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/File%20Explorer/README.md) - Instructions for setting up the Windows Glass File Explorer theme.
+* [Optional Features](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Optional%20Features/README.md) - Optional features for use with the Liquid Glass Themes.
 
 
 Check the [Excluding Unwanted Processes](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/Excluding-Unwanted-Processes) page to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
@@ -30,3 +28,4 @@ Check the [Excluding Unwanted Processes](https://gitlab.com/the-back-room/windha
 #### If you have any issues or need help, check the [wiki](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/pages). If your issue isn't listed there, feel free to [open an issue](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/work_items/views/1008491) with our support template.
 
 </div>
+
