@@ -7,10 +7,10 @@
 
 #### If you'd like to help, feel free to open a PR with your improvements and/or fixes!
 
-</div>
 
 ## Instructions
-Follow the instructions below to setup the Liquid Glass themes on your system.
+
+</div>
 
 * [Start Menu](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Start%20Menu/README.md) - Instructions for setting up the Windows Glass Start Menu theme.
 * [Taskbar](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Taskbar/README.md) - Instructions for setting up the Windows Glass Taskbar theme.
