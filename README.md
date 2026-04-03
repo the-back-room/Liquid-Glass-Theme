@@ -2,8 +2,8 @@
 
 # Liquid Glass Theme
 
-<img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-1.png" width="49%" height="auto" /> <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-4.png" width="49%" height="auto" />
-<img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-2.png" width="49%" height="auto" /> <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-3.png" width="49%" height="auto" />
+<img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-1.png" width="49%" height="auto" /> <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-2.png" width="49%" height="auto" />
+<img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-3.png" width="49%" height="auto" /> <img src="https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/raw/main/screenshot-4.png" width="49%" height="auto" />
 
 #### If you'd like to help, feel free to open a PR with your improvements and/or fixes!
 
