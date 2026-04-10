@@ -19,13 +19,12 @@
 * [Optional Features](https://gitlab.com/the-back-room/windhawk/themes/Liquid-Glass-Theme/-/blob/main/Optional%20Features/README.md) - Optional features for use with the Liquid Glass Themes.
 
 
-Check the [Excluding Unwanted Processes](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/Excluding-Unwanted-Processes) page to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
+Check the [Excluding Unwanted Processes](https://gitlab.com/the-back-room/windhawk/themes/Liquid-Glass-Theme/-/wikis/Excluding-Unwanted-Processes) page to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
 
 ---
 
 <div align="center">
 
-#### If you have any issues or need help, check the [wiki](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/pages). If your issue isn't listed there, feel free to [open an issue](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/work_items/views/1008491) with our support template.
+#### If you have any issues or need help, check the [wiki](https://gitlab.com/the-back-room/windhawk/themes/Liquid-Glass-Theme/-/wikis/pages). If your issue isn't listed there, feel free to [open an issue](https://gitlab.com/the-back-room/windhawk/themes/Liquid-Glass-Theme/-/work_items/views/1008491) with our support template.
 
 </div>
-
