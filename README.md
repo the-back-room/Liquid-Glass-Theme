@@ -12,11 +12,11 @@
 
 </div>
 
-* [Start Menu](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Start%20Menu/README.md) - Instructions for setting up the Windows Glass Start Menu theme.
-* [Taskbar](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Taskbar/README.md) - Instructions for setting up the Windows Glass Taskbar theme.
-* [Notification Center](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Notification%20Center/README.md) - Instructions for setting up the Windows Glass Notification Center theme.
-* [File Explorer](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/File%20Explorer/README.md) - Instructions for setting up the Windows Glass File Explorer theme.
-* [Optional Features](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/Optional%20Features/README.md) - Optional features for use with the Liquid Glass Themes.
+* [Start Menu](https://gitlab.com/the-back-room/windhawk/themes/windows-11-start-menu-styler/liquid-glass/-/blob/main/README.md) - Instructions for setting up the Windows Glass Start Menu theme.
+* [Taskbar](https://gitlab.com/the-back-room/windhawk/themes/windows-11-taskbar-styler/liquid-glass/-/blob/main/README.md) - Instructions for setting up the Windows Glass Taskbar theme.
+* [Notification Center](https://gitlab.com/the-back-room/windhawk/themes/windows-11-notification-center-styler/liquid-glass/-/blob/main/README.md) - Instructions for setting up the Windows Glass Notification Center theme.
+* [File Explorer](https://gitlab.com/the-back-room/windhawk/themes/windows-11-file-explorer-styler/liquid-glass/-/blob/main/README.md) - Instructions for setting up the Windows Glass File Explorer theme.
+* [Optional Features](https://gitlab.com/the-back-room/windhawk/themes/Liquid-Glass-Theme/-/blob/main/Optional%20Features/README.md) - Optional features for use with the Liquid Glass Themes.
 
 
 Check the [Excluding Unwanted Processes](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/Excluding-Unwanted-Processes) page to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
